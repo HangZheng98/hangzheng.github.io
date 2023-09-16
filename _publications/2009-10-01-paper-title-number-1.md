@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-03
 venue: 'Journal 1'
-paperurl: 'http://hangzheng98.github.io/files/TSP2023_1.pdf'
+paperurl: 'http://hangzheng98.github.io/files/Coarray_Tensor_Direction-of-Arrival_Estimation.pdf'
 citation: 'H. Zheng, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, “Coarray tensor direction-of-arrival estimation,” IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
