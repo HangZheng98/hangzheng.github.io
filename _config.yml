@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hang Zheng"
-  avatar           : "protrait.jpg"
+  name             : "Hang Zheng (郑航)"
+  avatar           : "protrait.png"
   bio              : "Array signal processing/tensor signal processing/AI for signal processing"
   location         : "Hangzhou, China"
   employer         :
